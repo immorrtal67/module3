@@ -1,0 +1,24 @@
+# CLion / IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# CMake build directories
+cmake-build-*/
+build/
+CMakeCache.txt
+CMakeFiles/
+
+# Executables and objects
+*.exe
+*.out
+*.obj
+*.o
+*.a
+*.so
+*.dll
+
+# OS specific
+.DS_Store
+Thumbs.db
